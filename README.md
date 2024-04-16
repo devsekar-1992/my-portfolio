@@ -16,6 +16,6 @@ This project is a simple yet elegant portfolio template built using HTML, CSS, a
 # Usage
 To use the Portfolio Template, simply download or clone the repository and customize the HTML, CSS, and JavaScript files to suit your needs. Replace placeholder content with your own information, projects, and images. Once customized, you can host the portfolio on GitHub Pages or any other web hosting service.
 # View Live
-
+ https://abaid78.github.io/Portfolio-Template/
 # Contribution
 Contributions to the Portfolio Template project are welcome! If you'd like to suggest improvements, report bugs, or contribute code, please feel free to submit a pull request or open an issue on GitHub.
