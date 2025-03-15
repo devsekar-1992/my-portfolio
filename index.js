@@ -15,6 +15,6 @@ function openmenue(){
     sidemenu.style.right="0";
 }
 function closemenue(){
-    sidemenu.style.right="-200px";
+    sidemenu.style.display="-200px";
 
 }
